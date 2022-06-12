@@ -38,6 +38,7 @@ python main_ens.py
 |Train data|0.01|99.714%|0.032|99.004%|0.025|99.59%|-|-|
 |Test data|0.173|95.95%|0.179|94.9%|0.176|95.64%|0.169|96.51|
 
+![캡처](https://user-images.githubusercontent.com/77375401/173237266-dc929510-07fa-4d62-9305-ce7a0c5780e3.PNG)
 ![1](https://user-images.githubusercontent.com/77375401/173234426-5ec98ff2-a4c3-4312-8102-4d856b9d0851.png)</br>
              **Train/Test accuracy & loss of DenseNet**</br></br>
 ![1](https://user-images.githubusercontent.com/77375401/173234469-43f31c8e-08a5-41ea-89a9-7bb94bf60aa8.png)</br>
