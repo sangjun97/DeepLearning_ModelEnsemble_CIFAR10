@@ -32,7 +32,7 @@ python main_ens.py
 
 ## Result
 
-|Data|[DenseNet](https://arxiv.org/abs/1608.06993)||[MobileNetv2](https://arxiv.org/abs/1801.04381)||[ResNet](https://arxiv.org/abs/1611.05431)||Ensembled||
+|Data|[DenseNet](https://arxiv.org/abs/1608.06993)||[MobileNetv2](https://arxiv.org/abs/1801.04381)||[ResNext](https://arxiv.org/abs/1611.05431)||Ensembled||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||Loss|Accuracy|Loss|Accuracy|Loss|Accuracy|Loss|Accuracy|
 |Train data|0.01|99.714%|0.032|99.004%|0.025|99.59%|-|-|
